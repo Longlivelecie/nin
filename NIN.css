@@ -1,0 +1,14 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+.content{
+  font-family:'Poppins' , sans-serif;
+  font-size:1.5em;
+  }
+.header{ 
+  color:#ff0000;
+  } 
+.green-color{
+  color:green;
+  }
+  </style>
